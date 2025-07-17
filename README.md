@@ -16,8 +16,6 @@ This project demonstrates a complete machine learning and deep learning pipeline
 
 ---
 
----
-
 ## 📦 Installation
 
 To install dependencies, run:
