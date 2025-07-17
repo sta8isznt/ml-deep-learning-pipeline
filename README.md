@@ -24,3 +24,17 @@ To install dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+
+🛠 Technologies Used
+
+    Python
+
+    pandas, NumPy
+
+    scikit-learn
+
+    matplotlib, seaborn
+
+    TensorFlow, Keras
+
+    Jupyter Notebook
