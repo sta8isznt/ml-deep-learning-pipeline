@@ -4,19 +4,19 @@ This project demonstrates a complete machine learning and deep learning pipeline
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
-- 📊 **Data Preprocessing**: Handling missing values, encoding categorical features, scaling and normalization
-- 🧠 **Feature Engineering**: Correlation analysis, SelectKBest, Random Forest importance
-- 📉 **Dimensionality Reduction**: PCA to retain 95% of data variance
-- 🌲 **Machine Learning Models**: Random Forest classifier with multiple feature sets
-- 🤖 **Deep Learning**: Neural network (MLP) built with Keras for binary classification
-- 🔍 **Clustering & Outliers**: DBSCAN used to detect clusters and isolate anomalies
-- 📈 **Model Comparison**: Evaluated using accuracy and training time with visual plots
+-  **Data Preprocessing**: Handling missing values, encoding categorical features, scaling and normalization
+-  **Feature Engineering**: Correlation analysis, SelectKBest, Random Forest importance
+-  **Dimensionality Reduction**: PCA to retain 95% of data variance
+-  **Machine Learning Models**: Random Forest classifier with multiple feature sets
+-  **Deep Learning**: Neural network (MLP) built with Keras for binary classification
+-  **Clustering & Outliers**: DBSCAN used to detect clusters and isolate anomalies
+-  **Model Comparison**: Evaluated using accuracy and training time with visual plots
 
 ---
 
-## 📦 Installation
+##  Installation
 
 To install dependencies, run:
 
@@ -24,7 +24,7 @@ To install dependencies, run:
 pip install -r requirements.txt
 ```
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - pandas, NumPy
 - scikit-learn
